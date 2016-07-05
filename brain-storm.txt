@@ -1,0 +1,19 @@
+Brain Storm
+
+Root https://en.wikipedia.org/wiki/Analytics
+
+Analytics, aka Business Analytics, Business Intelligence, Quantative Analytics
+
+Business Side of Analytics
+
+Technology Side of Business Analytics
+
+Analytics usability patterns
+
+Presentation Patterns
+
+Navigation Patterns
+Drill-Down aka hierachy, aka Rollups, aka graph
+
+
+
